@@ -1,0 +1,48 @@
+[submodule "libs/array"]
+	path = libs/array
+	url = https://github.com/boostorg/array.git
+[submodule "libs/assert"]
+	path = libs/assert
+	url = https://github.com/boostorg/assert.git
+[submodule "libs/bind"]
+	path = libs/bind
+	url = https://github.com/boostorg/bind.git
+[submodule "libs/concept_check"]
+	path = libs/concept_check
+	url = https://github.com/boostorg/concept_check.git
+[submodule "libs/config"]
+	path = libs/config
+	url = https://github.com/boostorg/config.git
+[submodule "libs/container"]
+	path = libs/container
+	url = https://github.com/boostorg/container.git
+[submodule "libs/container_hash"]
+	path = libs/container_hash
+	url = https://github.com/boostorg/container_hash.git
+[submodule "libs/conversion"]
+	path = libs/conversion
+	url = https://github.com/boostorg/conversion.git
+[submodule "libs/core"]
+	path = libs/core
+	url = https://github.com/boostorg/core.git
+[submodule "libs/function"]
+	path = libs/function
+	url = https://github.com/boostorg/function.git
+[submodule "libs/optional"]
+	path = libs/optional
+	url = https://github.com/boostorg/optional.git
+[submodule "libs/range"]
+	path = libs/range
+	url = https://github.com/boostorg/range.git
+[submodule "libs/static_assert"]
+	path = libs/static_assert
+	url = https://github.com/boostorg/static_assert.git
+[submodule "libs/cmake"]
+	path = libs/cmake
+	url = https://github.com/boostorg/cmake.git
+[submodule "libs/unordered"]
+	path = libs/unordered
+	url = https://github.com/boostorg/unordered.git
+[submodule "libs/tokenizer"]
+	path = libs/tokenizer
+	url = https://github.com/boostorg/tokenizer.git
