@@ -38,7 +38,7 @@
 	path = libs/static_assert
 	url = https://github.com/boostorg/static_assert.git
 [submodule "libs/cmake"]
-	path = libs/cmake
+	path = tools/cmake
 	url = https://github.com/boostorg/cmake.git
 [submodule "libs/unordered"]
 	path = libs/unordered
