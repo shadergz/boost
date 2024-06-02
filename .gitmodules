@@ -46,3 +46,30 @@
 [submodule "libs/tokenizer"]
 	path = libs/tokenizer
 	url = https://github.com/boostorg/tokenizer.git
+[submodule "libs/describe"]
+	path = libs/describe
+	url = https://github.com/boostorg/describe.git
+[submodule "libs/mp11"]
+	path = libs/mp11
+	url = https://github.com/boostorg/mp11.git
+[submodule "libs/throw_exception"]
+	path = libs/throw_exception
+	url = https://github.com/boostorg/throw_exception.git
+[submodule "libs/predef"]
+	path = libs/predef
+	url = https://github.com/boostorg/predef.git
+[submodule "libs/intrusive"]
+	path = libs/intrusive
+	url = https://github.com/boostorg/intrusive.git
+[submodule "libs/move"]
+	path = libs/move
+	url = https://github.com/boostorg/move.git
+[submodule "libs/iterator"]
+	path = libs/iterator
+	url = https://github.com/boostorg/iterator.git
+[submodule "libs/detail"]
+	path = libs/detail
+	url = https://github.com/boostorg/detail.git
+[submodule "libs/lexical_cast"]
+	path = libs/lexical_cast
+	url = https://github.com/boostorg/lexical_cast.git
