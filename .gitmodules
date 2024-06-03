@@ -73,3 +73,57 @@
 [submodule "libs/lexical_cast"]
 	path = libs/lexical_cast
 	url = https://github.com/boostorg/lexical_cast.git
+[submodule "libs/filesystem"]
+	path = libs/filesystem
+	url = https://github.com/boostorg/filesystem.git
+[submodule "libs/type_traits"]
+	path = libs/type_traits
+	url = https://github.com/boostorg/type_traits.git
+[submodule "libs/io"]
+	path = libs/io
+	url = https://github.com/boostorg/io.git
+[submodule "libs/mpl"]
+	path = libs/mpl
+	url = https://github.com/boostorg/mpl.git
+[submodule "libs/utility"]
+	path = libs/utility
+	url = https://github.com/boostorg/utility.git
+[submodule "libs/system"]
+	path = libs/system
+	url = https://github.com/boostorg/system.git
+[submodule "libs/atomic"]
+	path = libs/atomic
+	url = https://github.com/boostorg/atomic.git
+[submodule "libs/preprocessor"]
+	path = libs/preprocessor
+	url = https://github.com/boostorg/preprocessor.git
+[submodule "libs/function_types"]
+	path = libs/function_types
+	url = https://github.com/boostorg/function_types.git
+[submodule "libs/fusion"]
+	path = libs/fusion
+	url = https://github.com/boostorg/fusion.git
+[submodule "libs/align"]
+	path = libs/align
+	url = https://github.com/boostorg/align.git
+[submodule "libs/winapi"]
+	path = libs/winapi
+	url = https://github.com/boostorg/winapi.git
+[submodule "libs/functional"]
+	path = libs/functional
+	url = https://github.com/boostorg/functional.git
+[submodule "libs/tuple"]
+	path = libs/tuple
+	url = https://github.com/boostorg/tuple.git
+[submodule "libs/typeof"]
+	path = libs/typeof
+	url = https://github.com/boostorg/typeof.git
+[submodule "libs/variant2"]
+	path = libs/variant2
+	url = https://github.com/boostorg/variant2.git
+[submodule "libs/scope"]
+	path = libs/scope
+	url = https://github.com/boostorg/scope.git
+[submodule "libs/smart_ptr"]
+	path = libs/smart_ptr
+	url = https://github.com/boostorg/smart_ptr.git
